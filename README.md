@@ -58,7 +58,7 @@ Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
 
 ![Overview](https://github.com/joaofregato/Jaar-Consult-PS-2025/blob/main/imagens/1%20-%20Overview.png)
 
-### 🏗️ Custo e Vendas Brutas → visão entre relação de custos e vendas.
+### 💰 Custo e Vendas Brutas → visão entre relação de custos e vendas.
 
 ![Custos e Vendas Brutas](https://github.com/joaofregato/Jaar-Consult-PS-2025/blob/main/imagens/2%20-%20Custos%20e%20Vendas.png)
 
