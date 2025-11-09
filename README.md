@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte de um **teste técnico para um processo seletivo**, com o objetivo de demonstrar conhecimentos em **modelagem de dados, DAX, usabilidade e design de dashboards** no Power BI.
 
-O desafio envolveu a criação de um relatório completo e funcional (Aba Overview e Custos e Vendas Brutas), desde o front-end até a implementação de medidas analíticas e recursos avançados de segurança e interação e o desenvolvimento de medidas DAX avançadas.
+O desafio envolveu a criação de um relatório completo e funcional (Aba Overview e Custos e Vendas Brutas), desde o front-end até a implementação de medidas analíticas e recursos avançados de segurança e interação e o desenvolvimento de medidas DAX avançadas conforme "Gabarito Medidas 1", "Gabarito Medidas 2", "Gabarito Medidas 3" e "Gabarito Medidas 4".
 
 - **Confira o dashboard** 🧐 →  [Jaar Consult - PS](https://app.powerbi.com/reportEmbed?reportId=798b1581-ac7f-4162-9507-1d384c3c784b&autoAuth=true&ctid=ae257d9f-ad46-49ef-807c-cf77397a040a)
 
